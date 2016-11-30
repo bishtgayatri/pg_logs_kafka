@@ -1,9 +1,9 @@
 # pg_logs_kafka
-It is a postgres extension. It sends postgres logs to a configured Kafka topic.
+**pg_logs_kafka** It is a postgres extension. It sends postgres logs to a configured Kafka topic.
 
-Dependencies
+# Dependencies
 
-PostgreSQL
-librdkafka
-libsnappy
-zlib
+* PostgreSQL
+* librdkafka
+* libsnappy
+* zlib
