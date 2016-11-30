@@ -7,3 +7,9 @@
 * librdkafka
 * libsnappy
 * zlib
+
+### Instructions
+* Installation command - make && make install.
+* Enable the extension after installation completion - 
+      shared_preload_libraries = 'pg_logs_kafka.so'
+ 
