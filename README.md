@@ -12,4 +12,4 @@
 * Installation command - make && make install.
 * Enable the extension after installation completion - 
       shared_preload_libraries = 'pg_logs_kafka.so'
- 
+* add kafka and topic details in the conf/kafka.conf  
